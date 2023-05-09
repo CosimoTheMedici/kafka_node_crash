@@ -5,6 +5,7 @@ This project is all about kafka configuration and integration consuming with nod
 
 
 
+
 ## Appendix
 
 Any additional information goes here
@@ -29,18 +30,6 @@ it does in large scale apps
 3. complex to install configure and manage if you are doing it without the help of third party systems eg confluent/cloudkarafka/conduktor
 
 
-links to them 
-https://www.cloudkarafka.com/plans.html
-https://www.conduktor.io/blog/kafka-playground-two-free-kafka-clusters-without-operational-hassles/
-https://www.cloudkarafka.com/
-https://www.confluent.io/blog/kafka-made-serverless-with-confluent-cloud/## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Roadmap
@@ -51,15 +40,21 @@ https://www.confluent.io/blog/kafka-made-serverless-with-confluent-cloud/## Colo
 
 
 ## Acknowledgements
+  Find links to whre you can set up kafka online for free 
+  this list will be from the best to the meh
+ - [cloudkarafka](https://www.cloudkarafka.com/plans.html)
+ - [conduktor](https://www.conduktor.io/blog/kafka-playground-two-free-kafka-clusters-without-operational-hassles/)
+ - [Confluent](https://www.confluent.io/blog/kafka-made-serverless-with-confluent-cloud/)
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+guide of better plans
+ - [best one](https://technology.amis.nl/cloud/a-free-apache-kafka-cloud-service-and-how-to-quickly-get-started-with-it/)
+
 
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@@cosmas Thuku](https://www.github.com/CosimoTheMedici)
 
 
 ## Documentation
